@@ -112,8 +112,10 @@ Architecture	Medallion (Bronze-Silver-Gold)
 
 📷 Dashboard Preview
 Executive Summary
+https://github.com/suwarnawaw/-Sales-Performance-Analysis-Power-BI-SQL-Medallion-Architecture-/blob/main/Sales%20Performance%20Analysis%20-%20SSMS%20Source%20Data.png
 
 Map Visualization
+https://github.com/suwarnawaw/-Sales-Performance-Analysis-Power-BI-SQL-Medallion-Architecture-/blob/main/Sales%20Performance%20Analysis%20-%20SSMS%20Source%20Data1.png
 
 💡 Key Learnings
 Implemented end-to-end data pipeline design
