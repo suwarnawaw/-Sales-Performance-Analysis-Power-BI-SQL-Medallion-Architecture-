@@ -1,4 +1,4 @@
-# -Sales-Performance-Analysis-SQL-Microsoft Power BI with Medallion-Architecture
+# -Sales-Performance-Analysis-SQL Server source data-Microsoft Power BI with Medallion-Architecture
 This project presents an end-to-end Sales Analytics solution built using SQL Server data source, Power BI with Medallion Architecture. It transforms raw transactional data into meaningful business insights through structured data layers and interactive dashboards.
 
 The solution enables stakeholders to:
